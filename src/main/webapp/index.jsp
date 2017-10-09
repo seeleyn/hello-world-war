@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World! This is a sample war</h2>
+<h2>Hello World! Tomcat War Debugger</h2>
 <%!
   String javaVersion = System.getProperty("java.version");
   String javaVmVendor = System.getProperty("java.vm.vendor");
